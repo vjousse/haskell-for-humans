@@ -8,7 +8,7 @@ toc: true
 
 The first thing to do will be to have a working Haskell environment. Depending on your operating system, it's not always straightforward. `GHC (Glasgow Haskell Compiler)` is the defacto compiler for Haskell, so it's the bare minimum to install.
 
-The problem with only installing `GHC` is that soon, we will need to install dependencies, and the mess will begin. In this guide, I will always use a tool called `Stack` that will manage the dependencies mess for us. You can see it as an Haskell package manager that works.
+The problem with only installing `GHC` is that soon, we will need to install dependencies, and the mess will begin. In this guide, I will always use a tool called `Stack` that will manage the dependencies mess for us. You can see it as an Haskell package manager that works. Everyone is using `Stack` so should you. Even for a very small project, I always setup a stack project. It's sometimes overkill, but it will give you a consistent way of working with your Haskell projects.
 
 ## Installing Stack
 
