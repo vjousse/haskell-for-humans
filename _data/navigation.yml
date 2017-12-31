@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: /docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+# documentation links
+docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Strange symbols: $, <*>, <$>, >>="
+        url: /docs/strange-symbols/
